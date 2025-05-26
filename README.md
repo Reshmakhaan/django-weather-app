@@ -69,5 +69,18 @@ python manage.py runserver
   <img width="660" height="300" src="static/ss/a.png">
   <img width="660" height="300" src="static/ss/b.png">
 </p>
+## 📸 Screenshot
 
+> *(Optional: Add your app screenshot here)*  
+> Example: `![App Screenshot](static/images/screenshot.png)`
+
+---
+
+## 🔍 Features
+
+- 🌐 Get real-time weather data by city name
+- ☁️ Displays temperature, humidity, wind, and condition
+- 📡 Uses OpenWeatherMap API
+- 📱 Responsive front-end using HTML/CSS
+- ⚙️ Built with Django framework
 
