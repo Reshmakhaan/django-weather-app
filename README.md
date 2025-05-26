@@ -69,12 +69,7 @@ python manage.py runserver
   <img width="660" height="300" src="static/ss/a.png">
   <img width="660" height="300" src="static/ss/b.png">
 </p>
-## 📸 Screenshot
 
-> *(Optional: Add your app screenshot here)*  
-> Example: `![App Screenshot](static/images/screenshot.png)`
-
----
 
 ## 🔍 Features
 
