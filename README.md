@@ -1,3 +1,17 @@
+
+<h1 align="center">
+  <img src="https://img.icons8.com/color/96/django.png" alt="Django Logo" width="80" height="80"/>
+  <br>
+  🌦️ Django Weather Forecasting App
+</h1>
+
+<p align="center">
+  A simple and elegant weather forecast web application built using Django and OpenWeatherMap API.
+</p>
+
+---
+
+
 #Weathercast Using Python and Django 
 *Weather Bug is the application of science and technology to predict the conditions of the atmosphere for a given location and time. You can get the realtime Weather forecasting by using this web application*
 
