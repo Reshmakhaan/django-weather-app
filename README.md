@@ -79,3 +79,11 @@ python manage.py runserver
 - 📱 Responsive front-end using HTML/CSS
 - ⚙️ Built with Django framework
 
+Frontend: HTML5, CSS3, JavaScript (ES6+), Responsive Design
+
+Backend: Python, Django, REST APIs, MVC Architecture
+
+Databases: SQLite / PostgreSQL
+
+Tools: Git, GitHub, Postman
+
